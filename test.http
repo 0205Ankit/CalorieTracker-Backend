@@ -1,0 +1,7 @@
+GET http://localhost:4001/api/user/
+# Content-Type: application/json
+
+# {
+#     "first_name": "Ankit",
+#     "last_name": "singh"
+# }
